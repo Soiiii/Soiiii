@@ -1,6 +1,5 @@
 ### Hi I'm Soyoung 👋
 Software engineer from Seoul, Korea.
- [![Soyoung's github stats](https://github-readme-stats.vercel.app/api?username=Soiiii)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Soiiii/Soiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
